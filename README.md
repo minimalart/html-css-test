@@ -10,7 +10,7 @@
 - Mobile picture: `assets/boy.jpg`
 ### Requirements
 - Design in HTML and CSS only, without any framework
-- Use Flexbox or CSS Grid for aligning elemente
+- Use Flexbox or CSS Grid for aligning elements
 - Mobile frame: design using CSS only
 - Icons: use an icon font (not provided)
 
