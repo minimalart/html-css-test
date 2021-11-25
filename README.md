@@ -5,9 +5,9 @@
 ### Mobile Reference
 ![Mobile](ref/mobile.png)
 ### Elements
-- Background color: #e6468b
-- Background pattern: assets/pattern.svg
-- Mobile picture: assets/boy.jpg
+- Background color: `#e6468b`
+- Background pattern: `assets/pattern.svg`
+- Mobile picture: `assets/boy.jpg`
 ### Requirements
 - Design in HTML and CSS only, without any framework
 - Use Flexbox or CSS Grid for aligning elemente
